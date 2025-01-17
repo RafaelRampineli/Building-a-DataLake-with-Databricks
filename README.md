@@ -1,6 +1,9 @@
 # Building a Data Pipeline with Delta Lake, Spark, and Databricks
 This project demonstrates how to build a robust and scalable data pipeline using Delta Lake, Apache Spark, and Databricks. The pipeline covers real-world scenarios, including data ingestion, schema handling, upserts (merge operations), and SQL-based transformations, all while leveraging Delta Lake's ACID guarantees.
 
+![image](https://github.com/user-attachments/assets/bcd5f461-1b13-4324-9038-8272c88b9e37)
+
+
 ## Project Features
 - Data Ingestion:
 
